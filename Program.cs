@@ -8,7 +8,7 @@ public class Program
 {
     public static void Main()
     {
-        // 更改这里的内容
+        Console.WriteLine("                 _           _                _     _    __ ______ ____  \r\n               | |         | |              | |   | |  /_ |____  |___ \\ \r\n   ___ ___   __| | ___     | |__  _   _     | |___| |__ | |   / /  __) |\r\n  / __/ _ \\ / _` |/ _ \\    | '_ \\| | | |    | |_  / '_ \\| |  / /  |__ < \r\n | (_| (_) | (_| |  __/    | |_) | |_| |    | |/ /| | | | | / /   ___) |\r\n  \\___\\___/ \\__,_|\\___|    |_.__/ \\__, |    |_/___|_| |_|_|/_/   |____/ \r\n                                   __/ |                                \r\n                                  |___/           \r\n请输入明文密码");
         string string_3 = Console.ReadLine();
         // Class6.smethod_0()
         string value = "C:\\WINDOWS";
@@ -41,4 +41,3 @@ public class Program
         Console.WriteLine(str);
     }
 }
-// 期望输出：8a29cc29f5951530ac69f4
